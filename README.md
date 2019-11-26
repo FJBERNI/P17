@@ -4,7 +4,7 @@ Script aprovisionamiento vagrant.
 Este script provee a la maquina creada con el box Ubuntu/Trusty64.
 Contiene una pila LAMP y el Adminer para gestionarla desde WebApp.
 Además, hay un ejemplo de script con getopts.
-
+#Necessitem més codi Markdown
 Para iniciarlo:
 
 vagrant up, dentro de la carpeta con los archivos.
